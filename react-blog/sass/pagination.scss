@@ -1,0 +1,11 @@
+.pagination-container {
+  margin: 15px auto;
+
+  .disabled {
+    pointer-events: none;
+  }
+}
+
+.pagination-wrapper {
+  text-align: center;
+}

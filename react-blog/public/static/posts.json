@@ -1,0 +1,304 @@
+{
+  "postListContent": {
+    "header": "React Isomorphic Blog example",
+    "content": "<p>The articles below are used as examples to show the functionality of this blogging system<p>",
+    "metaDescription": "This is a test text only meta description"
+  },
+  "posts": [
+    {
+      "id" : 1,
+      "slug" : "markdown-example",
+      "metaDescription": "Markdown Example",
+      "title" : "Markdown example using the Readme from React-Blog",
+      "includes" : [
+        {
+          "type": "md",
+          "path": "/static/md/react-blog-readme.md"
+        }
+      ],
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 2,
+      "slug" : "Static html example",
+      "title" : "Static html example",
+      "metaDescription": "Static html example",
+      "includes" : [
+        {
+          "type": "html",
+          "path": "/static/html/static-html-example.html"
+        },
+        {
+          "type": "js",
+          "path": "/static/js/static-html-example.js"
+        },
+        {
+          "type": "css",
+          "path": "/static/css/static-html-example.css"
+        }
+      ],
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 3,
+      "slug" : "react-components-example",
+      "title" : "React Components Example",
+      "metaDescription": "React Components Example",
+      "includes" : [
+        {
+          "type": "jsx",
+          "path": "/static/jsx/react-components-example.jsx"
+        }
+      ],
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 4,
+      "slug" : "placeholder-4",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 5,
+      "slug" : "placeholder-5",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 6,
+      "slug" : "placeholder-6",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 7,
+      "slug" : "placeholder-7",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 8,
+      "slug" : "placeholder-8",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 9,
+      "slug" : "placeholder-9",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 10,
+      "slug" : "placeholder-10",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 11,
+      "slug" : "placeholder-11",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 12,
+      "slug" : "placeholder-12",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 13,
+      "slug" : "placeholder-13",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 14,
+      "slug" : "placeholder-14",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 15,
+      "slug" : "placeholder-15",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 16,
+      "slug" : "placeholder-16",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 17,
+      "slug" : "placeholder-17",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 18,
+      "slug" : "placeholder-18",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 19,
+      "slug" : "placeholder-19",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 20,
+      "slug" : "placeholder-20",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 21,
+      "slug" : "placeholder-21",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 22,
+      "slug" : "placeholder-22",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 23,
+      "slug" : "placeholder-23",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 24,
+      "slug" : "placeholder-24",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 25,
+      "slug" : "placeholder-25",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 26,
+      "slug" : "placeholder-26",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    },
+    {
+      "id" : 27,
+      "slug" : "placeholder-27",
+      "title" : "Placeholder",
+      "description" : "This is a Placeholder to show paging",
+      "author" : {
+        "photo" : "/images/jonathan.jpg",
+        "name" : "Jonathan"
+      }
+    }
+]}

@@ -1,0 +1,21 @@
+.single-post{
+  display: block;
+  padding: 15px 20px;
+  text-decoration: none;
+
+  &:hover{
+    background: #ECEFF1;
+    text-decoration: none;
+  }
+
+  .post-title{
+    font-size: 20px;
+    color: #607D8B;
+    font-weight: 300;
+  }
+
+  .author-details{
+    overflow: auto;
+    margin-top: 15px;
+  }
+}

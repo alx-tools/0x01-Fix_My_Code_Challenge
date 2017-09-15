@@ -1,0 +1,13 @@
+.footer {
+  width: 100%;
+  text-align: center;
+  margin: 15px 0;
+  position: relative;
+
+  .footer-powered-by {
+    position: absolute;
+    left: 0;
+    font-style: italic;
+    font-size: 0.8em;
+  }
+}
